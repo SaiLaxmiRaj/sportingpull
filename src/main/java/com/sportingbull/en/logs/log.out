@@ -1,0 +1,7 @@
+2023-08-06 16:08:590 INFO  HomePage :35 - Click on accept cookies [[ChromeDriver: chrome on WINDOWS (73af10064bba3b0656b3265939055970)] -> xpath: //button[contains(text(),'Accept all cookies')]]<br>
+2023-08-06 16:08:29 INFO  HomePage :42 - Click on CommunityShield [[ChromeDriver: chrome on WINDOWS (73af10064bba3b0656b3265939055970)] -> xpath: //span[contains(text(),'Community Shield')]]<br>
+2023-08-06 16:08:103 INFO  HomePage :50 - Verify on security & Trust text [[ChromeDriver: chrome on WINDOWS (73af10064bba3b0656b3265939055970)] -> tag name: b]<br>
+2023-08-07 15:08:597 INFO  HomePage :35 - Click on accept cookies [[ChromeDriver: chrome on WINDOWS (bed314541e3a23e35aa11fe0e379d123)] -> xpath: //button[contains(text(),'Accept all cookies')]]<br>
+2023-08-07 15:08:361 INFO  HomePage :35 - Click on accept cookies [[ChromeDriver: chrome on WINDOWS (74b9c4984e32c93ca646317726b933e8)] -> xpath: //button[contains(text(),'Accept all cookies')]]<br>
+2023-08-07 15:08:621 INFO  HomePage :35 - Click on accept cookies [[ChromeDriver: chrome on WINDOWS (9f5e3503bcef487aa52ba764ffc986d0)] -> xpath: //button[contains(text(),'Accept all cookies')]]<br>
+2023-08-07 15:08:827 INFO  HomePage :35 - Click on accept cookies [[ChromeDriver: chrome on WINDOWS (11e8db3027cc46edd83fc1122603a3be)] -> xpath: //button[contains(text(),'Accept all cookies')]]<br>

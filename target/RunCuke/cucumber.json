@@ -1,0 +1,86 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5796878900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setup()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "User Should navigate homepage tab",
+        "description": "",
+        "id": "homepage-test;user-should-navigate-homepage-tab",
+        "after": [
+          {
+            "result": {
+              "duration": 552700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 126030600,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I am on homepage",
+            "match": {
+              "location": "HomePageStep.iAmOnHomepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 475737000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should click on accept cookies",
+            "match": {
+              "location": "HomePageStep.iShouldClickOnAcceptCookies()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 19700,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I navigate homepage",
+            "match": {
+              "location": "HomePageStep.iNavigateHomepage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "HomePage Test",
+    "description": "As User, I Want navigate SportingBull homepage",
+    "id": "homepage-test",
+    "keyword": "Feature",
+    "uri": "homepage.feature"
+  }
+]
